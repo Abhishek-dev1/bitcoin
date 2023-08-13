@@ -9,7 +9,7 @@
 
 #include <memory>
 #include <string>
-
+#define ss second
 class ArgsManager;
 
 /**
